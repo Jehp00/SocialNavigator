@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SocialNavigator</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sing_in">Sing In</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_create_an_account">Click to create an account</string>
+    <string name="log_out">Log out</string>
+    <string name="sign_in">Sign In</string>
+</resources>

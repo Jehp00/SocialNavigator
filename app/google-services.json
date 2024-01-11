@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038440544650",
+    "project_id": "social-navigator-947b6",
+    "storage_bucket": "social-navigator-947b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038440544650:android:ea2c85565377c53c057073",
+        "android_client_info": {
+          "package_name": "com.example.socialnavigator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtXR5uqUIx_WZCLQOELVEXw7g7v38mkbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
