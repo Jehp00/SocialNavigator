@@ -47,6 +47,17 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button DashBoardbtn = findViewById(R.id.btn_dashboard);
+        DashBoardbtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(), DashBoard.class);
+                startActivity(intent);
+                finish();
+            }
+        });
+
+
         // Set onClickListener for Facebook button
         Button btnFacebook = findViewById(R.id.btnFacebook);
         btnFacebook.setOnClickListener(new View.OnClickListener() {

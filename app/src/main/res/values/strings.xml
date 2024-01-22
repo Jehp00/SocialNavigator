@@ -1,4 +1,6 @@
 <resources>
+    <string name="facebook_app_id">1235985254456142</string>
+    <string name="facebook_client_token">01c21f7f97d7ce25af49a7059d9c472b</string>
     <string name="app_name">SocialNavigator</string>
     <string name="login">Login</string>
     <string name="email">Email</string>
@@ -10,4 +12,13 @@
     <string name="click_to_create_an_account">Click to create an account</string>
     <string name="log_out">Log out</string>
     <string name="sign_in">Sign In</string>
+    <string name="dashboard">DashBoard Facebook</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="tiktok">TikTok</string>
+    <string name="likes_0">Likes: 0</string>
+    <string name="comments_0">Comments: 0</string>
+    <string name="shares_0">Shares: 0</string>
+    <string name="main_page">Main Page</string>
 </resources>

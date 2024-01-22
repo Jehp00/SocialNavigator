@@ -25,12 +25,20 @@
         android:layout_marginLeft="10sp"
         android:text="@string/log_out" />
 
+    <!-- Button for dashboard -->
+    <Button
+        android:id="@+id/btn_dashboard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10sp"
+        android:text="@string/dashboard" />
+
     <Button
         android:id="@+id/btnFacebook"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Facebook"
+        android:text="@string/facebook"
         android:onClick="openFacebook"/>
 
     <Button
@@ -38,7 +46,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Twitter"
+        android:text="@string/twitter"
         android:onClick="openTwitter"/>
 
     <Button
@@ -46,7 +54,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Instagram"
+        android:text="@string/instagram"
         android:onClick="openInstagram"/>
 
     <Button
@@ -54,7 +62,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="TikTok"
+        android:text="@string/tiktok"
         android:onClick="openTikTok"/>
 
 </LinearLayout>
